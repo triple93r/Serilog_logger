@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5H95sD8604lGu18AQO7m0+JMpoPTePO6z1R430aw0PocEXzJYYOhoA3nmF+1JVqVlyUd7RdKrnfs3bdILYmJ9A==",
+  "dgSpecHash": "mA82C5ZL6quuAdQ8DNgA83JE265V3edZqcCgzq+TkQlEyTwkM0MtYXjMrdcI6197BRP60d6iMrOvUTFbW7xMIA==",
   "success": true,
   "projectFilePath": "E:\\Practice\\Youtube\\Serilog_logger\\LoggerApp\\LoggerApp\\LoggerApp.csproj",
   "expectedPackageFiles": [
@@ -115,6 +115,8 @@
     "C:\\Users\\tripl\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\tripl\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\tripl\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\tripl\\.nuget\\packages\\serilog\\3.0.1\\serilog.3.0.1.nupkg.sha512",
+    "C:\\Users\\tripl\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
     "C:\\Users\\tripl\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\tripl\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Users\\tripl\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
