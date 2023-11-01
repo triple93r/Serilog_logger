@@ -1,0 +1,1 @@
+2023-11-01 08:54:27.555 +05:30 [INF] User : John, Module : DBW, inTime : 01/11/2023 8:54:27 AM Host : DESKTOP-E6TGSEP, ipAddress : fe80::900:7d62:c9a8:1200%25,fe80::6405:1753:bf55:b66e%10,172.30.176.1,192.168.0.104, Remarks : login
